@@ -19,7 +19,7 @@
 4. `Файл конфигурации`
 [Файл cfg](https://github.com/AlexanderSerg-jun/nginx_haproxy/blob/main/file/haproxy.cfg)
 5. `Запросы и статистика`
-![Запросы](https://github.com/AlexanderSerg-jun/nginx_haproxy/blob/main/img/perenaprav.png)
+![Запросы](https://github.com/AlexanderSerg-jun/nginx_haproxy/blob/main/img/perernaprav.png)
 ![Статистика](https://github.com/AlexanderSerg-jun/nginx_haproxy/blob/main/img/stats.png)
 ### Задание №2
 1. `Запустите три simple python сервера на своей виртуальной машине на разных портах`
