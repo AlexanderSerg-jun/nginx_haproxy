@@ -26,3 +26,14 @@
 2. `Настройте балансировку Weighted Round Robin на 7 уровне, чтобы первый сервер имел вес 2, второй - 3, а третий - 4`
 3. `HAproxy должен балансировать только тот http-трафик, который адресован домену example.local`
 4. `На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.`
+
+### Решение №2
+1. `Запустим третий сервер`
+![Запуск 3-го сервера](https://github.com/AlexanderSerg-jun/nginx_haproxy/blob/main/img/python_Server3.png)
+2. `Настроим балансировку с весом`
+![Вес](https://github.com/AlexanderSerg-jun/nginx_haproxy/blob/main/img/ves.png)
+3. `Балансировка трафика к домену example.local`
+![Балансировка](https://github.com/AlexanderSerg-jun/nginx_haproxy/blob/main/img/zaprosy.png)
+
+4. `Файл конфигурации`
+[Файл cfg](https://github.com/AlexanderSerg-jun/nginx_haproxy/blob/main/file/haproxy2.cfg)
