@@ -17,4 +17,4 @@
 3. `Настройка файла`
 ![Содержимое файла cfg](https://github.com/AlexanderSerg-jun/nginx_haproxy/blob/main/img/haproxy_cfg2.png)
 4. `Файл конфигурации`
-![Файл cfg](https://github.com/AlexanderSerg-jun/nginx_haproxy/blob/main/file/haproxy.cfg)
+[Файл cfg](https://github.com/AlexanderSerg-jun/nginx_haproxy/blob/main/file/haproxy.cfg)
